@@ -8,4 +8,4 @@ In today’s world of automation, the skills and knowledge of a person could be 
 The dataset is Electronic Health Record Predicting collected from a private Hospital in Indonesia. It contains the patient's laboratory test results used to determine next patient treatment whether in care or out care.
 
 ## Result
-![Uploading 그림1.png…]()
+![그림1](https://github.com/hoon0303/Patient-Treatment-Classification/assets/53135286/860e71f8-52e8-478f-93e2-cc93d80377d8)
