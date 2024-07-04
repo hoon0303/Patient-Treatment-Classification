@@ -9,3 +9,4 @@ The dataset is Electronic Health Record Predicting collected from a private Hosp
 
 ## Result
 ![그림1](https://github.com/hoon0303/Patient-Treatment-Classification/assets/53135286/860e71f8-52e8-478f-93e2-cc93d80377d8)
+
